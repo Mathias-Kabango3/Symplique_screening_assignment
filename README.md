@@ -4,7 +4,7 @@ This API allows clients to store reminder messages with a scheduled date/time an
 Features
 Accepts message, date, time, and reminder method
 
-Stores data in a PostgreSQL or SQLite database
+Stores data in  SQLite database
 
 Supports email and sms (extensible for more)
 
